@@ -1653,11 +1653,11 @@ header .logo a {
 	top: 18px;
 }
 
-.triggers .search-trigger {
+/* .triggers .search-trigger {
 	display: inline-block;
 	font-size: 17px;
-	color: #000000;
-}
+	color: #000000; 
+}*/
 
 .triggers .menu-toggle {
 	display: none;
